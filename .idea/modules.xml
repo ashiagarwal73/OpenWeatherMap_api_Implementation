@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Touchkinretrofit.iml" filepath="$PROJECT_DIR$/Touchkinretrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenWeatherMap_api_Implementation.iml" filepath="$PROJECT_DIR$/OpenWeatherMap_api_Implementation.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

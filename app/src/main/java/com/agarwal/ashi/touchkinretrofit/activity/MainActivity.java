@@ -39,7 +39,7 @@ import retrofit2.Response;
 
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = MainActivity.class.getSimpleName();
-    private final static String appid = "63a156c3a8c9e753308714ef3a6b8ebd";
+    private final static String appid = "Your API KEY";//Enter your API key
     ListView listView;
     String newcity;
     ArrayList<String> arrayList;
